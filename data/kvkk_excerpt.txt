@@ -1,0 +1,3 @@
+The Law on the Protection of Personal Data regulates the processing of personal data,
+including biometric data, through principles such as lawfulness, transparency,
+and proportionality.

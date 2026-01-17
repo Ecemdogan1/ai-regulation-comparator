@@ -1,0 +1,3 @@
+High-risk AI systems are those that may affect fundamental rights, safety, or livelihoods.
+They are subject to obligations such as risk management, data governance, transparency,
+and human oversight.
